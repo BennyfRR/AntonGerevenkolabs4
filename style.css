@@ -1,0 +1,29 @@
+.logo {
+    width: 120px;
+}
+h1 {
+    font-size: 30px;
+    color: blue;
+}
+.linkedlist {
+    background-color: darkorange;
+}
+footer {
+    background-color: azure;
+}
+th, td {
+    font-size: 9px;
+}
+form {
+    background-color: rgb(8, 253, 221);
+    color: white;
+}
+
+@media (min-width: 768px) {
+    h1 {
+        font-size: 50px;
+    }
+    th, td {
+        font-size: 15px;
+    }
+}
